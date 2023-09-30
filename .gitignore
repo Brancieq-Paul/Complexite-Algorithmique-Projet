@@ -1,5 +1,5 @@
 .python-version
-/home/paulb/projects/epitech/projects/Complexite-Algorithmique-Projet/matching/.ipynb_checkpoints
-/home/paulb/projects/epitech/projects/Complexite-Algorithmique-Projet/lines_graph/.ipynb_checkpoints
-/home/paulb/projects/epitech/projects/Complexite-Algorithmique-Projet/snowplow/lines_graph.py
-/home/paulb/projects/epitech/projects/Complexite-Algorithmique-Projet/complexities/.ipynb_checkpoints
+./matching/.ipynb_checkpoints
+./lines_graph/.ipynb_checkpoints
+./snowplow/lines_graph.py
+./complexities/.ipynb_checkpoints
