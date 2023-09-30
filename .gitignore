@@ -1,5 +1,6 @@
 .python-version
+.ipynb_checkpoints/
 ./matching/.ipynb_checkpoints
 ./lines_graph/.ipynb_checkpoints
-./snowplow/lines_graph.py
+./snowplow/.ipynb_checkpoints/
 ./complexities/.ipynb_checkpoints
